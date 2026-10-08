@@ -6,17 +6,17 @@
 Ao longo de experiências em grandes players dos setores de logística portuária e bens de consumo, foquei no desenvolvimento de soluções para problemas reais de integração de dados e automação de relatórios. Tenho domínio do ciclo de vida do dado, com ênfase na etapa de ETL e na construção de dashboards que traduzem métricas complexas em visibilidade operacional.
 <br/>
 <br/>
-👨‍💻 ### Competências Técnicas e Especialidades:
+👨‍💻 **Competências Técnicas e Especialidades:**
 </br>
 ✅ Marketing Analytics & CRM/Inbound:
 Concepção e estruturação de jornadas de usuários, criação de fluxos de automação de marketing e gestão de estratégias de Inbound Marketing. Monitoramento e definição de KPIs essenciais de performance, atração e retenção de clientes.
-
+</br>
 ✅ Business Intelligence & Métricas:
 Modelagem relacional e construção de dashboards interativos no Power BI (DAX e Power Query) e Looker Studio. Foco na estruturação de indicadores comerciais, consolidação de métricas operacionais e alinhamento de dados às metas de negócio.
-
+</br>
 ✅ Inteligência de Mercado & SEO:
 Mapeamento e análise de concorrentes (benchmarking), SEO para otimização de performance orgânica e acompanhamento de audiência, integrando dados do ecossistema digital à tomada de decisão estratégica.
-
+</br>
 ✅ Manipulação e Engenharia de Dados:
 Domínio de SQL para extração e manipulação de bancos de dados relacionais e semiestruturados. Aplicação de Python (Pandas) para tratamento de dados, limpeza e automação de processos. Noções de modelagem dimensional (Star Schema), BigQuery e boas práticas de LGPD e governança de dados.
 <br/>
