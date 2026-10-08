@@ -5,7 +5,8 @@
 
 Ao longo de experiências em grandes players dos setores de logística portuária e bens de consumo, foquei no desenvolvimento de soluções para problemas reais de integração de dados e automação de relatórios. Tenho domínio do ciclo de vida do dado, com ênfase na etapa de ETL e na construção de dashboards que traduzem métricas complexas em visibilidade operacional.
 <br/>
-👨‍💻Competências Técnicas e Áreas de Estudo:
+<br/>
+👨‍💻**Competências Técnicas e Áreas de Estudo:**
 <br/>
 ✅ Manipulação de Dados: Proficiência em SQL para extração e manipulação de bancos de dados relacionais e semiestruturados. Utilização de Python (Pandas) para limpeza e automação de processos de dados.
 <br/>
