@@ -8,17 +8,25 @@ Ao longo de experiências em grandes players dos setores de logística portuári
 <br/>
 👨‍💻 **Competências Técnicas e Especialidades:**
 </br>
-✅ Marketing Analytics & CRM/Inbound:
+✅ _Marketing Analytics & CRM/Inbound:_
+<br/>
 Concepção e estruturação de jornadas de usuários, criação de fluxos de automação de marketing e gestão de estratégias de Inbound Marketing. Monitoramento e definição de KPIs essenciais de performance, atração e retenção de clientes.
 </br>
-✅ Business Intelligence & Métricas:
+<br/>
+✅ _Business Intelligence & Métricas:_
+<br/>
 Modelagem relacional e construção de dashboards interativos no Power BI (DAX e Power Query) e Looker Studio. Foco na estruturação de indicadores comerciais, consolidação de métricas operacionais e alinhamento de dados às metas de negócio.
 </br>
-✅ Inteligência de Mercado & SEO:
+<br/>
+✅ _Inteligência de Mercado & SEO:_
+<br/>
 Mapeamento e análise de concorrentes (benchmarking), SEO para otimização de performance orgânica e acompanhamento de audiência, integrando dados do ecossistema digital à tomada de decisão estratégica.
 </br>
-✅ Manipulação e Engenharia de Dados:
+<br/>
+✅ _Manipulação e Engenharia de Dados:_
+<br/>
 Domínio de SQL para extração e manipulação de bancos de dados relacionais e semiestruturados. Aplicação de Python (Pandas) para tratamento de dados, limpeza e automação de processos. Noções de modelagem dimensional (Star Schema), BigQuery e boas práticas de LGPD e governança de dados.
+<br/>
 <br/>
 - 📩 Fale comigo atráves do e-mail: [nsqcar@gmail.com](mailto:nsqcar@gmail.com)
 <br/>
