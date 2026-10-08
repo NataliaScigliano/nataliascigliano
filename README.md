@@ -8,6 +8,7 @@ Ao longo de experiências em grandes players dos setores de logística portuári
 <br/>
 👨‍💻 **Competências Técnicas e Especialidades:**
 </br>
+<br/>
 ✅ _Marketing Analytics & CRM/Inbound:_
 <br/>
 Concepção e estruturação de jornadas de usuários, criação de fluxos de automação de marketing e gestão de estratégias de Inbound Marketing. Monitoramento e definição de KPIs essenciais de performance, atração e retenção de clientes.
